@@ -6,7 +6,7 @@ smoking hamlet or two, and painted blue peaks all the way to the horizon.
 
 This game was made using a single prompt:
 
-> Make a game like https://x.com/alex_erm/status/2080739261909762364 in three.js
+> Make a game like https://x.com/alex_erm/status/2080739261909762364
 
 ![gameplay](docs/gameplay.png)
 
