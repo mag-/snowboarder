@@ -1,0 +1,17 @@
+{
+  "name": "powder-line",
+  "version": "1.0.0",
+  "description": "An endless alpine snowboarding descent that runs in the browser.",
+  "scripts": {
+    "start": "node serve.js",
+    "build": "node build.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "three": "^0.185.1"
+  },
+  "private": true,
+  "devDependencies": {
+    "esbuild": "^0.28.1"
+  }
+}
