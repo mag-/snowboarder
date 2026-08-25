@@ -4,6 +4,10 @@ An endless alpine snowboarding descent that runs in the browser. You carve a
 groomed piste down a stylised valley — corduroy snow, snow-laden pines, a
 smoking hamlet or two, and painted blue peaks all the way to the horizon.
 
+This game was made using a single prompt:
+
+> Make a game like https://x.com/alex_erm/status/2080739261909762364 in three.js
+
 ![gameplay](docs/gameplay.png)
 
 A 27-second gameplay clip is in [`docs/gameplay.mp4`](docs/gameplay.mp4)
